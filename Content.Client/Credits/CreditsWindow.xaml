@@ -1,4 +1,4 @@
-﻿<DefaultWindow xmlns="https://spacestation14.io"
+<DefaultWindow xmlns="https://spacestation14.io"
             Title="{Loc 'credits-window-title'}"
             SetSize="650 650" >
     <TabContainer>
